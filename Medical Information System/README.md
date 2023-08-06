@@ -131,5 +131,4 @@ Contributions to the Medical Information System project are welcome! If you find
 
 ## Author
 
-- Your Name: Amr Sayed
-- GitHub: [your_username](https://github.com/AmrSayed0)
+- GitHub: [Amr Sayed](https://github.com/AmrSayed0)
