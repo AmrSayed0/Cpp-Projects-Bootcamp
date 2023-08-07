@@ -1,5 +1,3 @@
-Sure! Below is a sample README.md file for the "Stock Management System" project in C++:
-
 # Stock Management System
 
 The Stock Management System is a basic C++ program that allows users to manage a list of products and their stock quantities. It provides functionalities to add products, remove products, update product stock quantities, search for products, and display all products.
