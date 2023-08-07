@@ -6,7 +6,7 @@ The Stock Management System is a basic C++ program that allows users to manage a
 
 To run the Stock Management System, you need a C++ compiler that supports C++11 or later. Follow the steps below to get started:
 
-1. Clone the repository or download the source code from [GitHub](https://github.com/your_username/stock-management-system).
+1. Clone the repository or download the source code from [GitHub](https://github.com/AmrSayed0/stock-management-system).
 
 2. Compile the C++ source code using a C++ compiler:
 
