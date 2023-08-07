@@ -6,7 +6,7 @@ The Calculator for Scientific Operations is a simple C++ program that provides b
 
 To use the Calculator for Scientific Operations, you need a C++ compiler that supports C++11 or later. Follow the steps below to get started:
 
-1. Clone the repository or download the source code from [GitHub](https://github.com/your_username/calculator-for-scientific-operations).
+1. Clone the repository or download the source code from [GitHub](https://github.com/AmrSayed0/calculator-for-scientific-operations).
 
 2. Compile the C++ source code using a C++ compiler:
 
